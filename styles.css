@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(175, 215, 227);
+}
+
+hr {
+    border-color: rgb(52, 16, 16);
+}
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(79, 7, 29);
+    }
+
+.primero {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+p {
+font-family: lucida console ;
+text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13%;
+}
+
+form {
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(52, 16, 16);
+    border-radius: 5px;
+    text-align: center;
+}
+
+p#nom {
+    color: rgb(117, 26, 53);
+}
+
+p#cont {
+    color: rgb(156, 61, 90);
+}
+
+p#serv {
+    color: rgb(175, 81, 109);
+}
+
+p#opc {
+    color: rgb(182, 115, 135);
+}
+
+form p {
+    text-align: center;
+}
+
+input.box {
+    height: 100px;
+}
+
+label {
+    text-align: left;
+}
+
+select {
+    text-align: left;
+}
+
+.boton {
+    margin-left: 25%;
+    margin-right: 25%;
+}
